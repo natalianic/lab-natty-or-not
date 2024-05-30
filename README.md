@@ -21,12 +21,14 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Arte dos Algoritmos: Uma Jornada pelo Mundo Oracle
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Usando a IA para gerar um ebook e um podcast falando sobre o Banco de Dados Oracle para os jovens desenvolvedores.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA: Copilot, ChatGPT, EleveLabs
+edição de imagem: online_image-editor.com
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
