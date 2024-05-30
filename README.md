@@ -24,17 +24,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Arte dos Algoritmos: Uma Jornada pelo Mundo Oracle
 
 ## 📒 Descrição
-Usando a IA para gerar um ebook e um podcast falando sobre o Banco de Dados Oracle para os jovens desenvolvedores.
+Usando a IA para gerar um ebook e um podcast falando sobre o Banco de Dados Oracle para os
+jovens desenvolvedores.
 
 ## 🤖 Tecnologias Utilizadas
-IA: Copilot, ChatGPT, EleveLabs
-edição de imagem: online_image-editor.com
+IA: Copilot, ChatGPT, EleveLabs. D-ID
+Edição de imagem: online_image-editor.com
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Gerei com o ChatGPT nomes e conteúdos para o ebook e o podcast. Depois com o auxílio do ElevenLabs e do D-ID gerei o vídeo do podcast.
+Com o auxílio do PowerPoint criei o ebook.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Gostei muito dos dois formatos criados, embora o vídeo não ficou exatamente como eu queria, mas foi o que consegui gerar com a versão free.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
